@@ -1,0 +1,11 @@
+C:\Users\Katya\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\Katya\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katya\source\repos\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+C:\Users\Katya\source\repos\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\Katya\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\Katya\source\repos\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Katya\source\repos\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\Katya\source\repos\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Katya\source\repos\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\Katya\source\repos\Hotel\Hotel\obj\Debug\Hotel.pdb
